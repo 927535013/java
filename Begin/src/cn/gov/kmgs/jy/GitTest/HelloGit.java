@@ -12,5 +12,9 @@ public class HelloGit {
 	private void RemoteCommit(){
 		System.out.print("remote commit test");
 	}
+	
+	private void bugCommit(){
+		System.out.print("bug commit");
+	}
 
 }
